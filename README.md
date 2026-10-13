@@ -1,16 +1,16 @@
 # Hi, I'm Rahima 👋
 
-- I'm an MS student at Columbia University studying Chemical Engineering with a specialization in Data Science.
-- I have 4 years of professional experience as a petroleum engineer at BP.
-- I'm excited about combining my engineering background with data science and AI to develop data-driven solutions for industry problems.
+- I'm an MS student at Columbia University studying Chemical Engineering with a specialization in Data Science
+- I have 4 years of professional experience as a petroleum engineer at BP
+- I'm excited about combining my engineering background with data science and AI to develop data-driven solutions for industry problems
 - You can find me on LinkedIn: [in/rahimaabbasova](https://www.linkedin.com/in/rahimaabbasova)
 
 ## Languages and Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
