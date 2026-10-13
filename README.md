@@ -19,7 +19,7 @@
 
 ## What I'm working on
 
-- Data Science coursework and projects at Columbia
+- Data Science coursework and projects at Columbia University
 - Process and data-driven analysis for energy and engineering applications
 - My current research focuses on the application of Large Language Models (LLMs) in chemical engineering risk analysis
 
